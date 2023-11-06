@@ -26,5 +26,6 @@ if (isset($_GET['pg']) && ($_GET['pg'] != "")) {
     $sp_khuyenmai = get_dssp_khuyenmai();
     $sp_giacao = get_dssp_giacao();
     require_once 'view/home.php';
+    tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
 }
 require_once 'view/footer.php';
